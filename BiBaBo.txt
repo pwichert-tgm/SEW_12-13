@@ -1,2 +1,0 @@
-Learning to use git are:
-Patrick Wichert TGM
